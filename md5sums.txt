@@ -1,0 +1,12 @@
+
+f89a709f4a0171bd9643b08f329694d7  qt512_linux_x64.tar.bz2
+2068f0b821afb6146387f32749f50580  qt512_macos_x64_xcode10.1.tar.bz2
+3c1fb4d2f3fbfaabea2cedb905f5c0ec  qt512_macos_x64_xcode9.3.tar.bz2
+d97faadcf21200282d2d666d28b53cde  qt512_win_x64.tar.bz2
+ad818ff55c613550c50ebee3613db8ff  qt512_android_arm7.tar.bz2
+d6505c932f7b13ef4880dc813c965268  qt512_linux_x64_static.tar.bz2
+e1590cb3b5362a050704aa20d7d31a5b  qt512_win_x32.tar.bz2
+cd0d029ab9af79d693e0072482aca158  qt512_win_x64_static.tar.bz2
+7ea022a1b32703f5b937e4cfd465da0f  qt512_android_x86.tar.bz2
+3d6c91c655cad1675a202db2ff88b28e  qt512_macos_x64_xcode8.3.tar.bz2
+45ce75dfdfe5ea67aef403fefb1f17e3  qt512_win_x32_static.tar.bz2
